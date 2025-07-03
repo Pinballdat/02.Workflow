@@ -10,4 +10,5 @@
 - anaconda3 version 24.1.2
 
 3. Usage
+
 ```nextflow run WGS_bacteria.nf [--reads <path> --outdir <path>] -with-conda``` 
